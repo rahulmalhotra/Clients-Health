@@ -1,0 +1,2 @@
+# Clients-Health
+A project that consists of a server code and a client code written in c language in which a single server can connect with multiple clients. All clients can chat with the server and can send files to the server and vice-versa. Apart from this a new client can be made that can check the health of all clients or about a particular client that wether a working connection is established with that client currently or not.
